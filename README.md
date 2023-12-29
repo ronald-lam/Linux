@@ -4,7 +4,7 @@
 A research team at a fictional organization needs to update the file permissions for certain files and directories within the projects directory. By checking and updating these permissions will help keep their system secure. To complete this task, I performed the following tasks.
 <br />
 
-<h2>Walk-through:</h2>
+<h2>Walkthrough:</h2>
 
 <p align="center">
 Check file and directory details <br/>
