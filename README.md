@@ -79,13 +79,3 @@ For example, the file permissions for the file project_k.txt are -rw-rw-rw-. The
 <h2>Summary</h2>
 I updated permissions for certain files and directories to ensure that only authorized users can access and act on them. I learned how to view all files and directories (including hidden files) and their permissions with the ls -la command and to update permissions with the chmod command. 
 <br />
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
